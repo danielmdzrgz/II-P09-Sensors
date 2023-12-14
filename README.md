@@ -8,4 +8,4 @@ Primero, se ha creado un canvas donde se muestran varios datos como velocidad, a
 
 En el segundo ejercicio, se tiene un samurai que se mueve siempre en la misma dirección (hacia el Norte) dependiendo de la aceleracion del móvil. A continuación hay un gif de la ejecución:
 
-![Gif samurai](./gif/exercise2.gif)
+![Gif samurai](./gifs/exercise2.gif)
